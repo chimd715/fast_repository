@@ -1,3 +1,6 @@
 # project index
 .idea/
 
+# fast node.js
+*/node_modules/
+
